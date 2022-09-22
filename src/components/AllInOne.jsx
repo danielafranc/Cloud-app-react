@@ -25,7 +25,7 @@ export const AllInOne = () => {
                         <CheckIcon className="w-7 mr-4 text-green-600" />
                         </div>
                             <div>
-                                <h3 className="font-bold text-lg">Notifications</h3>
+                                <h3 className="font-bold text-lg">Notificationss</h3>
                                 <p className="text-lg pt-2 pb-4">Lorem ipsum dolor sit amet consectetur adipisicing elit. Nesciunt eum impedit sapiente, illo modi aut perferendis eius quidem molestias ipsum voluptates dolor. Voluptates architecto fuga esse quae ducimus, porro sequi.
                                 </p>
                             </div>
